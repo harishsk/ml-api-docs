@@ -55,8 +55,6 @@ a technique known as [data augmentation](http://www.stat.harvard.edu/Faculty_Con
 For end-to-end image processing pipelines, and scenarios in your applications, see the 
 [examples in the machinelearning-samples github repository](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/getting-started).
         ]]></format>
-          <seealso cref="T:Microsoft.ML.ImageEstimatorsCatalog" />
-          <seealso cref="T:Microsoft.ML.Data.ImageLoadingEstimator" />
         </remarks>
         <example>
           <format type="text/markdown"><![CDATA[
